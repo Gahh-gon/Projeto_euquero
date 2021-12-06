@@ -1,0 +1,89 @@
+body{
+
+
+    background-color: #220392;
+    
+    
+    
+    
+    }
+    
+    .corpo_login{
+    
+    
+    display: flex;
+    
+        background-color: #4816fb;
+        width: 80em;
+        margin: auto;
+       padding: 30px;
+    }
+    
+    .imagem_login{
+    
+    
+    width: 30%;
+    margin-bottom: 20px;
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .login{
+    
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 90px;
+    height: 700px;
+    width: 500px;
+    padding: 10px;
+    color: rgb(238, 238, 238);
+    font-weight: bold;
+    border-radius: 10px;
+    background-color:#2702ac42;
+    text-shadow: 1px 1px 1px black;
+    margin-bottom: 100px;
+    
+    }
+    
+    input{
+    
+    font-size: 26px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+        .imagem_facalogin{
+    
+          border: solid 20px #4816fb; 
+          background-color: #4816fb;
+          padding: 20px;
+          border-radius: 10px;
+          
+           
+    
+    
+        }
+            
